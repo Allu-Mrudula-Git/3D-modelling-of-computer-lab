@@ -1,6 +1,7 @@
 # 3D-modelling-of-computer-lab
 
-•	Our project title is 3D Computer Lab. OpenGL is a powerful graphics library that allows developers to create stunning 3D visualizations in real time.
+•	Our project title is 3D Computer Lab. Designed and developed using OpenGL and GLUT with Implemented interactive features such as rotating objects, zooming, camera controls, and lighting. It includes 3D models of chairs, tables, computers, walls, and other lab elements.
+   
 
 •	One of the most exciting applications of OpenGL is in the creation of virtual environments, such as computer labs. With the ability to create 3D models of objects, apply textures and materials, and setup lighting and camera angles, it is possible to create a realistic and immersive experience for users.
 
